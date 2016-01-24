@@ -1,0 +1,13 @@
+{
+  "name": "fd",
+  "version": "1.0.0",
+  "description": "fd ---",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turn8888/fd"
+  },
+  "main": "index.js",
+  "bin": { "fd": "bin/fd.js" },
+  "author": "<turn8888@163.com> ",
+  "license": "dd"
+}
